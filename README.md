@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Mobile app
 - 📫 How to reach me: https://www.facebook.com/taksansy/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I very bad at logic :((((
+- ⚡ Fun fact: My swimming skill is very good
 -->
 ### Badges <!-- learn below section from username=esin -->
 <!-- count from Mar 21, 2022 -->
