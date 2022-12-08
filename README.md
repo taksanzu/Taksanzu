@@ -10,9 +10,7 @@
 -->
 ### Badges <!-- learn below section from username=esin -->
 <!-- count from Mar 21, 2022 -->
-![](https://komarev.com/ghpvc/?username=Taksansy)
-![GitHub User's stars](https://img.shields.io/github/stars/iceStorm?style=for-the-badge&color=1977F2)
-![GitHub followers](https://img.shields.io/github/followers/iceStorm?style=for-the-badge&color=1977F2) -->
+![](https://komarev.com/ghpvc/?username=Taksansy)-->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taksanzu)
 [![Messenger](https://img.shields.io/badge/Messenger-fedcba?style=for-the-badge&logo=messenger&logoColor=black)](https://m.me/taksanzu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tak.sanzundev@gmail.com)
