@@ -10,7 +10,7 @@
 -->
 ### Badges <!-- learn below section from username=esin -->
 <!-- count from Mar 21, 2022 -->
-![](https://komarev.com/ghpvc/?username=Taksansy)-->
+![](https://komarev.com/ghpvc/?username=Taksansy)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taksanzu)
 [![Messenger](https://img.shields.io/badge/Messenger-fedcba?style=for-the-badge&logo=messenger&logoColor=black)](https://m.me/taksanzu)
