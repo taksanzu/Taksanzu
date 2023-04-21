@@ -6,7 +6,6 @@
 - 🎮 I'm love playing and making video games
 - 📖 I'm also love reading book
 
--->
 ### Badges <!-- learn below section from username=esin -->
 <!-- count from Mar 21, 2022 -->
 ![](https://komarev.com/ghpvc/?username=taksanzu)
