@@ -22,6 +22,9 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+### **Framework:** 
+![Boostrap5]
+
 <!-- learn below section from username=palakshivlani-11 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=taksanzu" alt="Tak's Github Stats" width="60%">
 
