@@ -3,9 +3,9 @@
 
 
 - 👀 I’m currently studying at BR-VT university
-- 🎮 I'm love playing and making video games
-- 📖 I'm also love reading book
-- 💪 We go to GYMMMMM!!!!!
+- 🎮 I love playing and making video games
+- 📖 I also love reading book
+- 💪 Calisthenics is my favorite sport 
 
 ### Badges <!-- learn below section from username=esin -->
 <!-- count from Mar 21, 2022 -->
