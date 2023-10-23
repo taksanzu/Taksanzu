@@ -2,7 +2,7 @@
 
 
 
-- 👀 I’m currently studying at BR-VT university
+- 👀 I’m 4 year student at BR-VT university
 - 🎮 I love playing and making video games
 - 📖 I also love reading book
 - 💪 Calisthenics and Gym are my favorite sports
