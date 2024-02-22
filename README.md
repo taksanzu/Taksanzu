@@ -56,5 +56,5 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## **Most Used Languages:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taksanzu&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taksanzu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
