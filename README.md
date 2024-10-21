@@ -11,7 +11,7 @@
 ### Contact
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taksanzu)
 [![Messenger](https://img.shields.io/badge/Messenger-fedcba?style=for-the-badge&logo=messenger&logoColor=black)](https://m.me/taksanzu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tak.sanzun.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankhang897979@gmail.com)
 
 ### **Languages:**  
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
