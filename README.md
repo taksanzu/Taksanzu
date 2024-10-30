@@ -4,6 +4,7 @@
 - 🎮 I love playing and making video games
 - 📖 I also love reading book
 - 💪 Calisthenics and Swimming are my favorite sports
+- 🥲 I am currently seeking employment
 
 ### Badges <!-- learn below section from username=esin -->
 <!-- count from Mar 21, 2022 -->
