@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/an-khang-truong) 
+![](https://komarev.com/ghpvc/?username=taksanzu&color=green)
 
 # 💻 Tech Stack:
 ### LANGUAGES
@@ -21,6 +22,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=taksanzu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taksanzu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taksanzu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-![Visitor Count](https://profile-counter.glitch.me/{taksanzu}/count.svg)
