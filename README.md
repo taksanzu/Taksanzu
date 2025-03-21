@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/an-khang-truong) 
-![](https://komarev.com/ghpvc/?username=taksanzu&color=green)
+![](https://komarev.com/ghpvc/?username=sanzu0609&color=green)
 
 # 💻 Tech Stack:
 ### LANGUAGES
@@ -15,5 +15,5 @@
 ### GAME ENGINE
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 # 📊 GitHub Stats:
-![taksanzu's Stats](https://github-readme-stats.vercel.app/api?username=taksanzu&theme=dark&show_icons=true&hide_border=true&count_private=true)<br>
-![taksanzu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taksanzu&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![sanzu0609's Stats](https://github-readme-stats.vercel.app/api?username=sanzu0609&theme=dark&show_icons=true&hide_border=true&count_private=true)<br>
+![sanzu0609's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanzu0609&theme=dark&show_icons=true&hide_border=true&layout=compact)
